@@ -3,6 +3,6 @@
 Testinė repozitorija
 Papildomas pakeitimas
 
-Pakeitimas mano atšakoje.
+Pakeitimas mano atšakoje
 
-Pakeitmas.
+Pakeitmas
